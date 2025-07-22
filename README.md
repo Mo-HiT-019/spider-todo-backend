@@ -22,5 +22,5 @@
 - Cookie-based token handling
 - CRUD operations for To-Dos
 
-1. **Clone the repository**
+1. **Clone the repository and install the node modules**
 2. **Add .env file with PORT ,MONGO_URI, JWT_SECRET, CLIENT_URL these four fields**
